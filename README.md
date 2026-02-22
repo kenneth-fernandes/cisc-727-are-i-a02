@@ -2,7 +2,7 @@
 
 ## Assignment A02 - Literature Review
 
-**Course:** CISC-727 - Advanced Research Explorations (ARE) - I
+**Course:** CISC-727 - Advanced Research Explorations (ARE) - I  
 **Author:** Kenneth Peter Fernandes  
 **Institution:** Harrisburg University of Science and Technology  
 **Semester:** Spring 2026  
